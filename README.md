@@ -31,7 +31,7 @@ At this time, I was first learning about the world of Arduino and its accompanyi
 |-|-|-|
 |<img src="supp/TT_04.jpg"> | <img src="supp/TT_03.jpg">| <img src="supp/TT_06.jpg">|
 
-Since I was young, I've always been fascinated by complex mechanisms. Designing and testing these different types of sliding and pivoting suspension systems was really a dream come true for me. It also taught me that even though things might seem difficult and unapproachable at first, never let that stop yourself from trying.
+Since I was a child, I've always been fascinated by complex mechanisms. Designing and testing these different types of sliding and pivoting suspension systems was really a dream come true for me. It also taught me that even though things might seem difficult and unapproachable at first, never let that stop yourself from trying.
 
 Here are a few clips of the different models driving over obstacles. 
 |[![Watch the video](supp/VTR_01.jpg)](https://youtu.be/Vxs7pX9UMew)|[![Watch the video](supp/VTR_02.jpg)](https://youtu.be/O1RfTxst8CE)|[![Watch the video](supp/VTR_03.jpg)](https://youtu.be/wMOQQHEtaQ4)|
