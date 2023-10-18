@@ -1,43 +1,38 @@
 # Tank Models
 
-I am stinky stinky Bruce and I like to build model. hehe
+During 10th grade, I was in love with the strategic tank combat game **World of Tanks Blitz** and wanted to try making some tanks models for myself to play with in the real world.
 
-## My Tank Pictures
+## FV4202
+
+In World of Tanks Blitz, tanks were categorized by Nation and the one I played was Great Britain. The most advanced tank in the British tech tree was the [FV4202](https://www.google.com/search?sca_esv=574320914&rlz=1C1ONGR_enUS1043US1043&sxsrf=AM9HkKm9PYcl9msLUvoJFeGoKd0TwWAUEQ:1697596318146&q=fv4202&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwi0hI-Mx_6BAxVSEVkFHcpNCEAQ0pQJegQIDhAB&biw=1920&bih=963&dpr=1), so I decided to model my second model tank after it.
+
 |<img src="supp/MT_01.jpg"> | <img src="supp/MT_02.jpg">| <img src="supp/MT_03.jpg">|<img src="supp/MT_04.jpg">|
 |-|-|-|-|
 
-## My Tank with remote control in action
+### Video Demonstrations
 
-Summer is too short. I can only implement the remote control system for my tank (arduino with radio module), but have no time to implement the power system for tank turret. Click image to see video clips
-|[![Watch the video](supp/VMT_01.jpg)](https://youtu.be/8mcwxQka-SE)|[![Watch the video](supp/VMT_02.jpg)](https://youtu.be/Jr-Uo1Vd39U)|[![Watch the video](supp/VMT_03.jpg)](https://youtu.be/oeZ-0BmFsXQ)|[![Watch the video](supp/VMT_04.jpg)](https://youtu.be/5BJnsn_qti4)|
+Here are some short videos of me driving the tank over some small obstacles indoors and driving them around outdoors.
+|[![Watch the video](supp/VMT_02.jpg)](https://youtu.be/Jr-Uo1Vd39U)|[![Watch the video](supp/VMT_03.jpg)](https://youtu.be/oeZ-0BmFsXQ)|[![Watch the video](supp/VMT_04.jpg)](https://youtu.be/5BJnsn_qti4)|[![Watch the video](supp/VMT_01.jpg)](https://youtu.be/8mcwxQka-SE)|
 |-|-|-|-|
 
-<hr style="border:2px solid gray">
+## KF41 Lynx Infantry Fighting Vehicle
 
-## My track system with remote control in action
+After building the model FV4202, I wanted to improve my models even further by adding even more features such as a rotating turret, pivoting barrel, and a gear box. Because I still didn't have access to 3D printing at this point, all the gears were designed to be made with foam and popsicle sticks and were extremely difficult to assmble. Due to these complications and time limitations of summer ending, this model was never fully constructed.
 
-These two suspension systems work equally well. I use the latest one (the right video) to build my final tank model with turret. Click image to see video clips.
-|[![Watch the video](supp/VTR_01.jpg)](https://youtu.be/Vxs7pX9UMew)|[![Watch the video](supp/VTR_02.jpg)](https://youtu.be/O1RfTxst8CE)|[![Watch the video](supp/VTR_03.jpg)](https://youtu.be/wMOQQHEtaQ4)|
-|-|-|-|
-
-## My tank desgin in Blender
 |<img src="supp/MTB_01.jpg"> | <img src="supp/MTB_02.jpg">| <img src="supp/MTB_03.jpg">|
 |-|-|-|
 |<img src="supp/MTB_04.jpg"> | <img src="supp/MTB_05.jpg">| <img src="supp/MTB_06.jpg">|
 
-<hr style="border:2px solid gray">
+## First Prototype
 
-## My track system without remote control  in action
-
-Click image to see video clips
-|[![Watch the video](supp/VT_01.jpg)](https://youtu.be/451M9cVgBYQ)|[![Watch the video](supp/VT_02.jpg)](https://youtu.be/yfJO76cP3h0)|[![Watch the video](supp/VT_03.jpg)](https://youtu.be/fWHRwT1mfnk)|
-|-|-|-|
-
-## My track design and remote controller
-
-I have designed many different models with differernt suspension systems in order to cross obstacles. First few designs do not work very well. The last two more complicated design seem function pretty good. 
+At this time, I was first learning about the world of Arduino and its accompanying suite of sensors and actuators. I decided to try them out in this project and incorporate small DC motors and radio control modules to power and control the tanks.
 
 |<img src="supp/TT_01.jpg"> | <img src="supp/TT_02.jpg">| <img src="supp/TT_05.jpg">|
 |-|-|-|
 |<img src="supp/TT_04.jpg"> | <img src="supp/TT_03.jpg">| <img src="supp/TT_06.jpg">|
 
+Since I was young, I've always been fascinated by complex mechanisms. Designing and testing these different types of sliding and pivoting suspension systems was really a dream come true for me. It also taught me that even though things might seem difficult and unapproachable at first, never let that stop yourself from trying.
+
+Here are a few clips of the different models driving over obstacles. 
+|[![Watch the video](supp/VTR_01.jpg)](https://youtu.be/Vxs7pX9UMew)|[![Watch the video](supp/VTR_02.jpg)](https://youtu.be/O1RfTxst8CE)|[![Watch the video](supp/VTR_03.jpg)](https://youtu.be/wMOQQHEtaQ4)|
+|-|-|-|
